@@ -216,12 +216,16 @@ function Person(){} var person = Person() var person = new Person()
 ```
 Question: What value is returned from the above statement?
 **Answer: 3**
+問題：上記のコードを実行して得られる値は何ですか？
+**答え：3**
 
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 ```
 Question: What value is returned from the above statement?
 **Answer: "goh angasal a m'i"**
+問題：上記のコードを実行して得られる値は何ですか？
+**答え："goh angasal a m'i"**
 
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
@@ -229,12 +233,17 @@ Question: What value is returned from the above statement?
 Question: What is the value of window.foo?
 **Answer: "bar"**
 only if window.foo was falsey otherwise it will retain its value.
+問題：window.fooの値は何ですか？
+**答え："bar"**
+window.fooの判定がfalseの場合のみ、barが設定され、其れ以外はwindow.fooが既に保持している値がそのまま残ります。
 
 ```javascript
 var foo = "Hello"; (function() { var bar = " World"; alert(foo + bar); })(); alert(foo + bar);
 ```
 Question: What is the outcome of the two alerts above?
 **Answer: "Hello World" & ReferenceError: bar is not defined**
+問題：2つのalertからの結果はどのようになりますか？
+**答え："Hello World"と表示され、続いてReferenceError: bar is not definedと表示される。**
 
 ```javascript
 var foo = [];
@@ -243,6 +252,8 @@ foo.push(2);
 ```
 Question: What is the value of foo.length?
 **Answer: `2`
+問題：foo.lengthの値は？
+**答え：`2`**
 
 ```javascript
 var foo = {};
@@ -250,6 +261,8 @@ foo.bar = 'hello';
 ```
 Question: What is the value of foo.length?
 **Answer: `undefined`
+問題：foo.lengthの値は？
+**答え：`undefined`**
 
 ### jQuery-Specific Questions:
 
