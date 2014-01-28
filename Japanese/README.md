@@ -1,25 +1,25 @@
 #Front-end Job Interview Questions
-#フロントエンドの就職面接の問題集
+#フロントエンドの就職試験問題集
 
 @version 2.0.0
 
 This repo contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
-このレポジトリには、たくさんのフロントエンドに関する問題を集めており、その問題を使って腕試しすることができます。実力を計るためにすべての問題を行う必要はなく、ここに示すリストからいくつか選定して使ってください。
+このレポジトリには、たくさんのフロントエンドに関する問題が存在します。これらの問題を使って、候補者の実力を試すことができます。実力を計るためにすべての問題を行う必要はなく（数時間かかってしまいます）、いくつかを選んで利用してください。
 
 [Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) is also a great resource to read up on before you head into an interview.
 
-ここに示した問題に答える前に、[Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)で学習すると良いでしょう。
+面接を受ける前に、[Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)を読むと良いでしょう。
 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
-**Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させて、この問題について議論することで、より実力を測ることができるでしょう。
+**Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させてこの問題について議論することで、候補者のポテンシャルをより知ることができるでしょう。
 
 ####Original Contributors
 
 The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created originally by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and contributed to by the following individuals:
 
-問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成されました。以下の人々がContributerです。
+問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成されました。Contributerは、以下の人々です。
 
 * [@bentruyman](http://twitter.com/bentruyman) - http://bentruyman.com
 * [@cowboy](http://twitter.com/cowboy) - http://benalman.com
