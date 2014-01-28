@@ -148,31 +148,52 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 * どのようにコードを構成しますか？（モジュールパターン、レガシーパターン？）
 * What's the difference between host objects and native objects?
 * ホストオブジェクト（host objects）とネイティブオブジェクト（native objects）の違いは何ですか？
-* Difference between:
+* 次の違いを説明して下さい。
 ```javascript
 function Person(){} var person = Person() var person = new Person()
 ```
 * What's the difference between `.call` and `.apply`?
+* `.call`と`.apply`の違いを説明して下さい。
 * explain `Function.prototype.bind`?
+* `Function.prototype.bind`について説明してください。
 * When do you optimize your code?
+* どのようにコードの最適化を行いますか？
 * Can you explain how inheritance works in JavaScript?
+* JavaScriptにおいてどのように継承を実装するかについて説明できますか？
 * When would you use `document.write()`?
+* `document.write()`をどのような時に使いますか？
   * Most generated ads still utilize `document.write()` although its use is frowned upon
+  * ひんしゅくを買うことではあるものの、多くの広告は依然として`document.write()`を利用しています。
 * What's the difference between feature detection, feature inference, and using the UA string
+* ☆feature detection, eature inference, UA文字列チェックの違いを説明してください。
 * Explain AJAX in as much detail as possible
+* AJAXについて可能な限り詳しく説明してください。
 * Explain how JSONP works (and how it's not really AJAX)
+* JSONPがどのように機能するかについて説明してください。（また、AJAXが機能しない理由を説明してください）
 * Have you ever used JavaScript templating?
+* JavaScriptテンプレートを使ったことがありますか？
   * If so, what libraries have you used? (Mustache.js, Handlebars etc.)
+  * もし使ったことがある場合には、どんなライブラリを使いましたか？（Mustache.js, Handlebars, 他）
 * Explain "hoisting".
+* varの巻き上げ（hoisting）について説明してください。
 * Describe event bubbling.
+ * イベント伝播（event bubbling）について説明してください。
 * What's the difference between an "attribute" and a "property"?
+* "attribute"と"property"の違いは何ですか？
 * Why is extending built in JavaScript objects not a good idea?
+* なぜJavaScriptオブジェクトを拡張することは、良くないことなのでしょうか？
 * Why is extending built ins a good idea?
+* なぜビルドインの拡張は良いことなのでしょうか？
 * Difference between document load event and document ready event?
+* document loadイベントと、document readyイベントの違いは何ですか？
 * What is the difference between `==` and `===`?
+* `==`と`===`の違いは何ですか？
 * Explain how you would get a query string parameter from the browser window's URL.
+* ブラウザで表示されているURLからクエリパラメータを取得する場合に、どのように実装しますか？
 * Explain the same-origin policy with regards to JavaScript.
+* JavaScriptの観点から、Same-Origin Policyを説明してください。
 * Describe inheritance patterns in JavaScript.
+* JavaScriptにおける継承パターンを説明してください。
 * Make this work:
 ```javascript
 [1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]
