@@ -119,20 +119,35 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 ### 問題（JS編）
 
 * Explain event delegation
+* イベントのデリゲーション（event delegation）について説明してください。
 * Explain how `this` works in JavaScript
+* JavaScriptにおいて`this`がどのように機能するかを説明してください。
 * Explain how prototypal inheritance works
+* プロトタイプ継承がどのように機能するか説明してください。
 * How do you go about testing your JavaScript?
+* どのようにJavaScriptコードをテストしますか？
 * AMD vs. CommonJS?
+* AMD vs. CommonJS？
 * What's a hashtable?
+* ハッシュテーブル（hashtable）とは何ですか？
 * What are `undefined` and `undeclared` variables?
+* `undefined`変数と`undeclared`変数とは、どのようなものですか？
 * What is a closure, and how/why would you use one?
+* クロージャーとは何ですか？また、どのように使いますか？また、なぜクロージャーを使いますか？
   * Your favorite pattern used to create them? argyle (Only applicable to IIFEs)
+  * あなたのお気に入りのパターンでは、それらが日常的に使われていますか？（即時実行関数が適用可能なことに限ります）☆
 * What's a typical use case for anonymous functions?
+* 無名関数の典型的な使い方を説明してください。
 * Explain the "JavaScript module pattern" and when you'd use it.
+* "JavaScriptモジュールパターン（JavaScript module pattern）"について説明してください。またそれを利用した事例を教えてください。
   * Bonus points for mentioning clean namespacing.
+  * ボーナスポイント：名前空間を汚染しない点に言及した場合
   * What if your modules are namespace-less?
+  * モジュールが名前空間を必要としない、など
 * How do you organize your code? (module pattern, classical inheritance?)
+* どのようにコードを構成しますか？（モジュールパターン、レガシーパターン？）
 * What's the difference between host objects and native objects?
+* ホストオブジェクト（host objects）とネイティブオブジェクト（native objects）の違いは何ですか？
 * Difference between:
 ```javascript
 function Person(){} var person = Person() var person = new Person()
