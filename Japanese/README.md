@@ -12,9 +12,13 @@ This repo contains a number of front-end interview questions that can be used wh
 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
+**Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させて、この問題について議論することで、より実力を測ることができるでしょう。
+
 ####Original Contributors
 
 The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created originally by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and contributed to by the following individuals:
+
+問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成され、以下の人々がContributerです。
 
 * [@bentruyman](http://twitter.com/bentruyman) - http://bentruyman.com
 * [@cowboy](http://twitter.com/cowboy) - http://benalman.com
