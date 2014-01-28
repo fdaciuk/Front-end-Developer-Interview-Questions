@@ -18,7 +18,7 @@ This repo contains a number of front-end interview questions that can be used wh
 
 The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created originally by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and contributed to by the following individuals:
 
-問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成され、以下の人々がContributerです。
+問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成されました。以下の人々がContributerです。
 
 * [@bentruyman](http://twitter.com/bentruyman) - http://bentruyman.com
 * [@cowboy](http://twitter.com/cowboy) - http://benalman.com
@@ -35,20 +35,36 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 
 ### General Questions:
 
+### 問題（全般）
+
 * What did you learn yesterday/this week?
+* 昨日/この週にあなたは何を学びましたか？
 * What excites or interests you about coding?
+* コーディングにおいて、何に興奮しましたか？また何に興味を持ちましたか？
 * Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
+* お気に入りの開発環境について語ってください（OS, エディタ, ブラウザ, ツール, 他）
 * Can you describe your workflow when you create a web page?
+* Webページを作る際の、あなたの作業の流れ（workflow）を説明してください。
 * Can you describe the difference between progressive enhancement and graceful degradation?
+* プレグレッシブ・エンハンスメント（progressive enhancement）とグレースフル・デグレデーション（graceful degradation）の違いを説明できますか？
   * Bonus points for describing feature detection
+  * 違いについて特徴を説明出来た場合には、ボーナスポイント
 * Explain what "Semantic HTML" means.
+* "セマンティックHTML（Semantic HTML）"の意味を説明してください。
 * How would you optimize a websites assets/resources?
+* Webサイトのアセットやリソースをあなたはどのように最適化しますか？
   * Looking for a number of solutions which can include:
+  * 以下のような解決策が挙がるかを確認してください。
     * File concatenation
+    * ファイルの結合
     * File minification
+    * ファイルのミニファイ
     * CDN Hosted
+    * CDNの利用
     * Caching
+    * キャッシュ
     * etc.
+    * 他
 * Why is it better to serve site assets from multiple domains?
   * How many resources will a browser download from a given domain at a time?
 * Name 3 ways to decrease page load. (perceived or actual load time)
