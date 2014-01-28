@@ -63,23 +63,16 @@
 ### HTML-Specific Questions:
 ### 問題（HTML編）
 
-* What's a `doctype` do?
 * `doctype`とは何ですか？
-* What's the difference between standards mode and quirks mode?
-* スタンダードモードと互換モードの違いは何ですか？
+* 標準モードと互換モードの違いは何ですか？
 * What are the limitations when serving XHTML pages?
-* XHTMLページを提供するにあたり、制限事項は何ですか？
-  * Are there any problems with serving pages as `application/xhtml+xml`?
+* XHTMLページを実装するにあたり、どのような制約事項がありますか？
   * `application/xhtml+xml`のページを実装する場合に、どのような問題がありますか？
-* How do you serve a page with content in multiple languages?
-* 複数の言語のコンテンツを含むページを、あなたならどのように実装しますか？
-  * What kind of things must you be wary of when design or developing for multilingual sites?
-  * 他言語サイトのデザインや構築をする上で、どのようなことに注意を払いますか？
-* What are `data-` attributes good for?
-* `data-`は何に効果的なのでしょうか？
+* 1つのページで複数言語をサポートする場合、あなたならどのように実装しますか？
+  * 複数言語をサポートするサイトのデザインや実装をする上で、どのようなことに注意を払いますか？
+* `data-`属性は、どのようなことに利用すると良いですか？
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
-* ★HTML5をオープンWebプラットフォームと考えた場合に、HTML5のブロック要素の構築とはどのようなものですか？
-* Describe the difference between cookies, sessionStorage and localStorage.
+* HTML5をオープンWebプラットフォームと考えた場合に、HTML5の構成要素はどのようなものがありますか？
 * cookie, sessionStorage, localStorageの違いを説明してください。
 
 ### JS-Specific Questions
