@@ -66,33 +66,57 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
     * etc.
     * 他
 * Why is it better to serve site assets from multiple domains?
+* なぜ複数のドメインからアセットを提供することが良いのでしょうか？
   * How many resources will a browser download from a given domain at a time?
+  * 1つのドメインから一度にブラウザーがダウンロード可能なリソースの数はいくつでしょうか？
 * Name 3 ways to decrease page load. (perceived or actual load time)
+* ページロードを減らす方法を3つ上げてください(体感時間、または実際のロード時間について)
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
+* あるプロジェクトにアサインされた時に、彼らはタブとスペースを使っていました。あなたならどうしますか？
   * Suggest the project utilize something like EditorConfig (http://editorconfig.org)
+  * EditorConfig (http://editorconfig.org)などの何らかのプロジェクト共通のことを提案するか？
   * Conform to the conventions (stay consistent)
+  * しきたりに従うか（現状維持）？
   * `issue :retab! command`
 * Write a simple slideshow page
+* シンプルなスライドショーを行うページを書いてください。
   * Bonus points if it does not use JS.
+  * ボーナスポイント：JSを使わなかった場合
 * What tools do you use to test your code's performance?
+* コードのパフォーマンステストにはどのようなツールを使いますか？
+  * Profiler, JSPerf, Dromaeo
   * Profiler, JSPerf, Dromaeo
 * If you could master one technology this year, what would it be?
+* 今年なにか1つ技術を極めるとしたら、それは何ですか？
 * Explain the importance of standards and standards bodies.
+* 標準化や標準化団体の重要性について説明してください。
 * What is FOUC? How do you avoid FOUC?
+* FOUCとは何ですか？どのようにFOUCを回避しますか？
 
 ### HTML-Specific Questions:
+### 問題（HTML編）
 
 * What's a `doctype` do?
+* `doctype`とは何ですか？
 * What's the difference between standards mode and quirks mode?
+* スタンダードモードと互換モードの違いは何ですか？
 * What are the limitations when serving XHTML pages?
+* XHTMLページを提供するにあたり、制限事項は何ですか？
   * Are there any problems with serving pages as `application/xhtml+xml`?
+  * `application/xhtml+xml`のページを実装する場合に、どのような問題がありますか？
 * How do you serve a page with content in multiple languages?
+* 複数の言語のコンテンツを含むページを、あなたならどのように実装しますか？
   * What kind of things must you be wary of when design or developing for multilingual sites?
+  * 他言語サイトのデザインや構築をする上で、どのようなことに注意を払いますか？
 * What are `data-` attributes good for?
+* `data-`は何に効果的なのでしょうか？
 * Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+* ★HTML5をオープンWebプラットフォームと考えた場合に、HTML5のブロック要素の構築とはどのようなものですか？
 * Describe the difference between cookies, sessionStorage and localStorage.
+* cookie, sessionStorage, localStorageの違いを説明してください。
 
 ### JS-Specific Questions
+### 問題（JS編）
 
 * Explain event delegation
 * Explain how `this` works in JavaScript
