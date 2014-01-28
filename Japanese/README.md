@@ -60,7 +60,6 @@
 * 標準化や標準化団体の重要性について説明してください。
 * FOUCとは何ですか？どのようにFOUCを回避しますか？
 
-### HTML-Specific Questions:
 ### 問題（HTML編）
 
 * `doctype`とは何ですか？
@@ -75,59 +74,35 @@
 * HTML5をオープンWebプラットフォームと考えた場合に、HTML5の構成要素はどのようなものがありますか？
 * cookie, sessionStorage, localStorageの違いを説明してください。
 
-### JS-Specific Questions
 ### 問題（JS編）
 
-* Explain event delegation
-* イベントのデリゲーション（event delegation）について説明してください。
-* Explain how `this` works in JavaScript
+* イベントの委譲（event delegation）について説明してください。
 * JavaScriptにおいて`this`がどのように機能するかを説明してください。
-* Explain how prototypal inheritance works
 * プロトタイプ継承がどのように機能するか説明してください。
-* How do you go about testing your JavaScript?
 * どのようにJavaScriptコードをテストしますか？
-* AMD vs. CommonJS?
 * AMD vs. CommonJS？
-* What's a hashtable?
-* ハッシュテーブル（hashtable）とは何ですか？
-* What are `undefined` and `undeclared` variables?
-* `undefined`変数と`undeclared`変数とは、どのようなものですか？
-* What is a closure, and how/why would you use one?
-* クロージャーとは何ですか？また、どのように使いますか？また、なぜクロージャーを使いますか？
-  * Your favorite pattern used to create them? argyle (Only applicable to IIFEs)
-  * あなたのお気に入りのパターンでは、それらが日常的に使われていますか？（即時実行関数が適用可能なことに限ります）☆
-* What's a typical use case for anonymous functions?
-* 無名関数の典型的な使い方を説明してください。
-* Explain the "JavaScript module pattern" and when you'd use it.
+* 連想配列とは何ですか？
+* `undefined`変数と`undeclared`変数とは何ですか？
+* クロージャーとは何ですか？どのように使いますか？また、なぜクロージャーを使いますか？
+  * あなたのお気に入り書き方には、それらが日常的に使われていますか？（即時関数に適用できる場合に限ります）
+* 無名関数の典型的な使い方はどのようなものですか？
 * "JavaScriptモジュールパターン（JavaScript module pattern）"について説明してください。またそれを利用した事例を教えてください。
-  * Bonus points for mentioning clean namespacing.
   * ボーナスポイント：名前空間を汚染しない点に言及した場合
-  * What if your modules are namespace-less?
-  * モジュールが名前空間を必要としない、など
-* How do you organize your code? (module pattern, classical inheritance?)
+  * もしあなたのモジュールが名前空間を必要としないとしたら、、、
 * どのようにコードを構成しますか？（モジュールパターン、レガシーパターン？）
-* What's the difference between host objects and native objects?
 * ホストオブジェクト（host objects）とネイティブオブジェクト（native objects）の違いは何ですか？
 * 次の違いを説明して下さい。
 ```javascript
 function Person(){} var person = Person() var person = new Person()
 ```
-* What's the difference between `.call` and `.apply`?
 * `.call`と`.apply`の違いを説明して下さい。
-* explain `Function.prototype.bind`?
 * `Function.prototype.bind`について説明してください。
-* When do you optimize your code?
-* どのようにコードの最適化を行いますか？
-* Can you explain how inheritance works in JavaScript?
-* JavaScriptにおいてどのように継承を実装するかについて説明できますか？
-* When would you use `document.write()`?
+* いつコードの最適化を行いますか？
+* JavaScriptにおいて、どのように継承が機能するかを説明できますか？
 * `document.write()`をどのような時に使いますか？
-  * Most generated ads still utilize `document.write()` although its use is frowned upon
-  * ひんしゅくを買うことではあるものの、多くの広告は依然として`document.write()`を利用しています。
-* What's the difference between feature detection, feature inference, and using the UA string
-* ☆feature detection, eature inference, UA文字列チェックの違いを説明してください。
-* Explain AJAX in as much detail as possible
-* AJAXについて可能な限り詳しく説明してください。
+  * 広告を生成する多くの機能は、非難を受けつつも、依然として`document.write()`を利用しています。
+* Feature Detection, Feature Inference, UA Detectionの違いを説明してください。
+* AJAXについてできるだけ詳しく説明してください。
 * Explain how JSONP works (and how it's not really AJAX)
 * JSONPがどのように機能するかについて説明してください。（また、AJAXが機能しない理由を説明してください）
 * Have you ever used JavaScript templating?
