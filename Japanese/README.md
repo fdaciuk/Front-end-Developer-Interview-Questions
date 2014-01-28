@@ -297,31 +297,52 @@ $(".foo div#bar:eq(0)")
 * 'delegate()'と'live()'の違いは何ですか？
 
 
-### CSS-Specific Questions:
+### 問題（CSS）
 
 * Describe what a "reset" CSS file does and how it's useful.
+* リセットCSSファイルがどのように機能するか、なぜ便利なのかについて説明して下さい。
 * Describe Floats and how they work.
+* フロート（float）がどのように機能するかを説明してください。
 * What are the various clearing techniques and which is appropriate for what context?
+* フロートをクリアする方法をいくつか説明してください。またどのように使い分けるべきか説明してください。
 * Explain CSS sprites, and how you would implement them on a page or site.
+* CSSスプライトについて説明してください。またページやサイトを構築する上で、CSSスプライトをどのように実装しますか？
 * What are your favourite image replacement techniques and which do you use when?
+* お気に入りの画像置換（image replacement）テクニックをいくつか教えてください。それらはいつ使いますか？
 * CSS property hacks, conditionally included .css files, or... something else?
+* ☆.cssファイルに条件付きでCSSプロパティのハックを含むことがありますが、他にはどのようなハックがありますか？
 * How do you serve your pages for feature-constrained browsers?
+* 機能制限されたブラウザーに対して、どのようにページを提供しますか？
   * What techniques/processes do you use?
+  * どのようなテクニックや手順を使いますか？
 * What are the different ways to visually hide content (and make it available only for screen readers)?
+* コンテンツを隠す方法はどのようなものがありますか（そして、screenの場合のみそれを適用するにはどうしますか）？
 * Have you ever used a grid system, and if so, what do you prefer?
+* グリッドデザインを使ったことがありますか？もしある場合、あなたはどのような技術を使って実装しますか？
 * Have you used or implemented media queries or mobile specific layouts/CSS?
+* メディアクエリやモバイル専用のレイアウト（やCSS）を使ったことはありますか？
 * Any familiarity with styling SVG?
+* SVGや其れに関する技術を使ったことはありますか？
 * How do you optimize your webpages for print?
+* 印刷用にWebページを最適化するにはどうしますか？
 * What are some of the "gotchas" for writing efficient CSS?
+* ☆効率の良いCSSを書くために、いくつかの分かった！体験を教えてください。
 * What are the advantages/disadvantages of using CSS preprocessors? (SASS, Compass, Stylus, LESS)
+* CSSプリプロセッサを使うメリット・デメリットは何ですか？（SASS, Compass, Stylus, LESS）
   * If so, describe what you like and dislike about the CSS preprocessors you have used.
+  * 今までに使ってきたCSSプリプロセッサの好む点、嫌う点を教えてください。
 * How would you implement a web design comp that uses non-standard fonts?
+* 標準実装されていないフォントを使う場合に、どのようにWebデザインカンプを実装しますか？
   * Webfonts (font services like: Google Webfonts, Typekit etc.)
+  * Webフォント（Google Webfonts, Typekitなど）
 * Explain how a browser determines what elements match a CSS selector?
+* ブラウザが、どの要素がCSSセレクタにマッチするかを決める方法について説明してください。
 
 ### Optional fun Questions:
+### 問題（番外編）
 
 * What's the coolest thing you've ever coded, what are you most proud of?
+
 * What are your favorite parts about the developer tools you use?
 * Do you have any pet projects? What kind?
 * What's your favorite feature of Internet Explorer?
