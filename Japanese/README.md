@@ -195,15 +195,21 @@ function Person(){} var person = Person() var person = new Person()
 * Describe inheritance patterns in JavaScript.
 * JavaScriptにおける継承パターンを説明してください。
 * Make this work:
+* 次が動作するように実装してください。
 ```javascript
 [1,2,3,4,5].duplicate(); // [1,2,3,4,5,1,2,3,4,5]
 ```
 * Describe a strategy for memoization (avoiding calculation repetition) in JavaScript.
+* JavaScriptにおけるメモ化のパターン（計算を何度も行うことを避ける）を説明してください。
 * Why is it called a Ternary expression, what does the word "Ternary" indicate?
+* なぜ三項演算子と呼ばれるのでしょうか？また、三項が意味することは何でしょうか？
 * What is the arity of a function?
+* 関数の可変引数とは何ですか？
 * What is `"use strict";`? what are the advantages and disadvantages to using it?
+* `"use strict";`とは何ですか？これを使うことでのメリット・デメリットは何ですか？
 
 ### JS-Code Examples:
+### 問題（JSコード）
 
 ```javascript
 ~~3.14
