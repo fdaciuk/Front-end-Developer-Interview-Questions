@@ -264,24 +264,37 @@ Question: What is the value of foo.length?
 問題：foo.lengthの値は？
 **答え：`undefined`**
 
-### jQuery-Specific Questions:
+### 問題（jQuery）
 
 * Explain "chaining".
+* メソッドチェーン（chaining）について説明して下さい。
 * Explain "deferreds".
+* ディファード（deferreds）について説明してください。
 * What are some jQuery specific optimizations you can implement?
+* あなたが実装出来るjQuery特有の最適化をいくつか教えてください。
 * What does `.end()` do?
+* `.end()`はどのように機能しますか？
 * How, and why, would you namespace a bound event handler?
+* ☆どのように、そしてどのような根拠で、イベントハンドラーのネームスペースを設定しますか？
 * Name 4 different values you can pass to the jQuery method.
+* ☆あなたが利用出来るjQueryの機能を4つ上げてください。
   * Selector (string), HTML (string), Callback (function), HTMLElement, object, array, element array, jQuery Object etc.
+  * Selector (string), HTML (string), Callback (function), HTMLElement, object, array, element array, jQuery Object 他.
 * What is the effects (or fx) queue?
+* エフェクトキュー（effects queue）や関数キュー（fx queue）は何ですか？
 * What is the difference between `.get()`, `[]`, and `.eq()`?
+* 次の違いを説明してください。`.get()`, `[]`, and `.eq()`?
 * What is the difference between `.bind()`, `.live()`, and `.delegate()`?
+* 次の違いを説明してください。`.bind()`, `.live()`, and `.delegate()`
 * What is the difference between `$` and `$.fn`? Or just what is `$.fn`.
+* 次の違いを説明してください。`$` and `$.fn`? Or just what is `$.fn`
 * Optimize this selector:
+* 次のセレクターを最適化してください。
 ```javascript
 $(".foo div#bar:eq(0)")
 ```
 * Difference between 'delegate()' and 'live()'?
+* 'delegate()'と'live()'の違いは何ですか？
 
 
 ### CSS-Specific Questions:
