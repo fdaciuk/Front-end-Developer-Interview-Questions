@@ -342,7 +342,10 @@ $(".foo div#bar:eq(0)")
 ### 問題（番外編）
 
 * What's the coolest thing you've ever coded, what are you most proud of?
-
+* 最もカッコいいと思ったコードは何ですか？最も誇りを持つことは何ですか？
 * What are your favorite parts about the developer tools you use?
+* あなたの使っているディベロッパーツールで、好んでいる点はどこですか？
 * Do you have any pet projects? What kind?
+* 特に興味のあるプロジェクトはありますか？どのような種類のものですか？
 * What's your favorite feature of Internet Explorer?
+* Internet Explorerの機能のうち、好きな機能は何ですか？
