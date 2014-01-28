@@ -1,19 +1,19 @@
 #Front-end Job Interview Questions
-#フロントエンドの就職試験問題集
+#フロントエンドの就職試験の問題集
 
 @version 2.0.0
 
 This repo contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
 
-このレポジトリには、たくさんのフロントエンドに関する問題が存在します。これらの問題を使って、候補者の実力を試すことができます。実力を計るためにすべての問題を行う必要はなく（数時間かかってしまいます）、いくつかを選んで利用してください。
+このレポジトリには、候補者の実力を推し測る時に利用できる、たくさんのフロントエンドに関する問題が存在します。実力を計るために、1人の候補者にすべての問題を問う必要はなく（数時間かかってしまいます）、いくつかを選んで利用してください。
 
 [Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) is also a great resource to read up on before you head into an interview.
 
-面接を受ける前に、[Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)を読むと良いでしょう。
+面接を受ける前に、[Rebecca Murphey](http://rmurphey.com/)の [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)を読むと良いでしょう。
 
 **Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
-**Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させてこの問題について議論することで、候補者のポテンシャルをより知ることができるでしょう。
+**Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させて問題について議論することで、候補者のポテンシャルをより深く知ることができるでしょう。
 
 ####Original Contributors
 
@@ -39,9 +39,9 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 ### 問題（全般）
 
 * What did you learn yesterday/this week?
-* 昨日/この週にあなたは何を学びましたか？
+* 昨日（または今週）、あなたは何を学びましたか？
 * What excites or interests you about coding?
-* コーディングにおいて、何に興奮しましたか？また何に興味を持ちましたか？
+* コーディングにおいて、熱中することや興味を持つことは何ですか？
 * Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
 * お気に入りの開発環境について語ってください（OS, エディタ, ブラウザ, ツール, 他）
 * Can you describe your workflow when you create a web page?
