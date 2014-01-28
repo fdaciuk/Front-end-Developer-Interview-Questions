@@ -3,21 +3,13 @@
 
 @version 2.0.0
 
-This repo contains a number of front-end interview questions that can be used when vetting potential candidates. It is by no means recommended to use every single question here on the same candidate (that would take hours). Choosing a few items from this list should help you vet the intended skills you require.
-
-このレポジトリには、候補者の実力を推し測る時に利用できる、たくさんのフロントエンドに関する問題が存在します。実力を計るために、1人の候補者にすべての問題を問う必要はありません（数時間かかってしまいます）。いくつかの問題を選んで候補者に質問することで、候補者のスキルを測ることができます。
-
-[Rebecca Murphey](http://rmurphey.com/)'s [Baseline For Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/) is also a great resource to read up on before you head into an interview.
+このレポジトリには、候補者の能力を測ることができる、たくさんのフロントエンドに関する問題が存在します。実力を計るために、1人の候補者にすべての問題を問う必要はありません（数時間かかってしまいます）。いくつかの問題を選んで候補者に質問することで、候補者のスキルを測ることができます。
 
 面接に臨む前に、[Rebecca Murphey](http://rmurphey.com/)の [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)を読むと良いでしょう。
-
-**Note:** Keep in mind that many of these questions are open ended and could lead to interesting discussions that tell you more about the person's capabilities than a straight answer would.
 
 **Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させて問題について議論することで、候補者のポテンシャルをより深く知ることができるでしょう。
 
 ####Original Contributors
-
-The majority of the questions were plucked from an [oksoclap](http://oksoclap.com/) thread created originally by [Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish)) and contributed to by the following individuals:
 
 問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成されました。Contributerは、以下の方々です。
 
@@ -38,19 +30,13 @@ The majority of the questions were plucked from an [oksoclap](http://oksoclap.co
 
 ### 問題（全般）
 
-* What did you learn yesterday/this week?
 * 昨日（または今週）、あなたは何を学びましたか？
-* What excites or interests you about coding?
 * コーディングにおいて、熱中することや興味を持つことは何ですか？
-* Talk about your preferred development environment. (OS, Editor, Browsers, Tools etc.)
-* お気に入りの開発環境について語ってください（OS, エディタ, ブラウザ, ツール, 他）
-* Can you describe your workflow when you create a web page?
-* Webページを作る際の、あなたの作業の流れ（workflow）を説明してください。
-* Can you describe the difference between progressive enhancement and graceful degradation?
+* お気に入りの開発環境について教えて下さい。（OS, エディタ, ブラウザ, ツール, 他）
+* あるWebページを作る場合に、どのような作業手順（workflow）で取り組むか説明できますか？
 * プレグレッシブ・エンハンスメント（progressive enhancement）とグレースフル・デグレデーション（graceful degradation）の違いを説明できますか？
   * Bonus points for describing feature detection
-  * 違いについて特徴を説明出来た場合には、ボーナスポイント
-* Explain what "Semantic HTML" means.
+  * ボーナスポイント：特徴を使って説明できた場合
 * "セマンティックHTML（Semantic HTML）"の意味を説明してください。
 * How would you optimize a websites assets/resources?
 * Webサイトのアセットやリソースをあなたはどのように最適化しますか？
