@@ -3,13 +3,13 @@
 
 @version 2.0.0
 
-このレポジトリには、候補者の能力を測ることができる、たくさんのフロントエンドに関する問題が存在します。実力を計るために、1人の候補者にすべての問題を問う必要はありません（数時間かかってしまいます）。いくつかの問題を選んで候補者に質問することで、候補者のスキルを測ることができます。
+このレポジトリには、候補者の能力を測ることができる、フロントエンドに関する問題がたくさんの存在します。実力を計るために、1人の候補者にすべての問題を問う必要はありません（数時間かかってしまいます）。いくつかの問題を選んで候補者に質問することで、候補者のスキルを測ることができます。
 
 面接に臨む前に、[Rebecca Murphey](http://rmurphey.com/)の [Baseline For Front-End Developers（英語）](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)を読むと良いでしょう。
 
 **Note:** ここに示した問題の多くは、Yes/Noでは答えられないオープンクエスチョンです。そのため、回答そのものから発展させて問題について議論することで、候補者のポテンシャルをより深く知ることができるでしょう。
 
-####Original Contributors
+####Contributors
 
 問題の多くは、[Paul Irish](http://paulirish.com) ([@paul_irish](http://twitter.com/paul_irish))によって作成された[oksoclap](http://oksoclap.com/) のスレッドから作成されました。Contributerは、以下の方々です。
 
@@ -26,7 +26,6 @@
 * [@darcy_clarke](http://twitter.com/darcy) - http://darcyclarke.me
 * [@iansym](http://twitter.com)
 
-### General Questions:
 
 ### 問題（全般）
 
@@ -35,49 +34,30 @@
 * お気に入りの開発環境について教えて下さい。（OS, エディタ, ブラウザ, ツール, 他）
 * あるWebページを作る場合に、どのような作業手順（workflow）で取り組むか説明できますか？
 * プレグレッシブ・エンハンスメント（progressive enhancement）とグレースフル・デグレデーション（graceful degradation）の違いを説明できますか？
-  * Bonus points for describing feature detection
-  * ボーナスポイント：特徴を使って説明できた場合
+  * ボーナスポイント：それぞれの特徴を使って違いを説明できた場合
 * "セマンティックHTML（Semantic HTML）"の意味を説明してください。
-* How would you optimize a websites assets/resources?
 * Webサイトのアセットやリソースをあなたはどのように最適化しますか？
-  * Looking for a number of solutions which can include:
   * 以下のような解決策が挙がるかを確認してください。
-    * File concatenation
     * ファイルの結合
-    * File minification
     * ファイルのミニファイ
-    * CDN Hosted
     * CDNの利用
-    * Caching
     * キャッシュ
-    * etc.
     * 他
-* Why is it better to serve site assets from multiple domains?
-* なぜ複数のドメインからアセットを提供することが良いのでしょうか？
-  * How many resources will a browser download from a given domain at a time?
-  * 1つのドメインから一度にブラウザーがダウンロード可能なリソースの数はいくつでしょうか？
-* Name 3 ways to decrease page load. (perceived or actual load time)
-* ページロードを減らす方法を3つ上げてください(体感時間、または実際のロード時間について)
+* 複数のドメインからアセットを提供することは、なぜ良いのでしょうか？
+  * ブラウザが1つのドメインから一度にダウンロードするリソース数は、いくつでしょうか？
+* ページ読み込みを減らす方法を3つ挙げてください(体感時間、または実際のロード時間について)
 * If you jumped on a project and they used tabs and you used spaces, what would you do?
-* あるプロジェクトにアサインされた時に、彼らはタブとスペースを使っていました。あなたならどうしますか？
+* あるプロジェクトにアサインされた時に、彼らはタブとスペースの両方を使っていました。あなたならどうしますか？
   * Suggest the project utilize something like EditorConfig (http://editorconfig.org)
-  * EditorConfig (http://editorconfig.org)などの何らかのプロジェクト共通のことを提案するか？
-  * Conform to the conventions (stay consistent)
-  * しきたりに従うか（現状維持）？
+  * EditorConfig (http://editorconfig.org）などの何らかのプロジェクト共通設定を提案するか？
+  * 現状に従うか？
   * `issue :retab! command`
-* Write a simple slideshow page
-* シンプルなスライドショーを行うページを書いてください。
-  * Bonus points if it does not use JS.
+* シンプルなスライドショーを行うページを実装してください。
   * ボーナスポイント：JSを使わなかった場合
-* What tools do you use to test your code's performance?
-* コードのパフォーマンステストにはどのようなツールを使いますか？
+* コードのパフォーマンスをテストするために、どのようなツールを使いますか？
   * Profiler, JSPerf, Dromaeo
-  * Profiler, JSPerf, Dromaeo
-* If you could master one technology this year, what would it be?
-* 今年なにか1つ技術を極めるとしたら、それは何ですか？
-* Explain the importance of standards and standards bodies.
+* 今年、何か1つ技術を極めるとしたら、それは何ですか？
 * 標準化や標準化団体の重要性について説明してください。
-* What is FOUC? How do you avoid FOUC?
 * FOUCとは何ですか？どのようにFOUCを回避しますか？
 
 ### HTML-Specific Questions:
