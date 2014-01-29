@@ -50,7 +50,6 @@
   * ブラウザが1つのドメインから一度にダウンロードするリソース数は、いくつでしょうか？
 * ページ読み込みを減らす方法を3つ挙げてください(体感時間、または実際のロード時間について)
 * あるプロジェクトにアサインされた時に、彼らはタブとスペースの両方を使っていました。あなたならどうしますか？
-  * Suggest the project utilize something like EditorConfig (http://editorconfig.org)
   * EditorConfig（ http://editorconfig.org ）などの何らかのプロジェクト共通設定を提案するか？
   * 現状に従うか？
   * `issue :retab! command`
@@ -146,9 +145,6 @@ function Person(){} var person = Person() var person = new Person()
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
-Question: What is the value of window.foo?
-**Answer: "bar"**
-only if window.foo was falsey otherwise it will retain its value.
 問題：window.fooの値は何ですか？
 **答え："bar"**
 （window.fooの判定がfalseの場合のみbarが値に設定され、それ以外の場合にはwindow.fooは変化しません）
