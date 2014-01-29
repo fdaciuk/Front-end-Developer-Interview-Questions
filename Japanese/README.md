@@ -127,7 +127,7 @@ function Person(){} var person = Person() var person = new Person()
 * `"use strict";`とは何ですか？これを使うことでのメリット・デメリットは何ですか？
 
 
-### 問題（JSコード）
+### 問題（JSコード編）
 
 ```javascript
 ~~3.14
@@ -169,7 +169,7 @@ foo.bar = 'hello';
 問題：foo.lengthの値は何ですか？　　
 **答え：`undefined`**
 
-### 問題（jQuery）
+### 問題（jQuery編）
 
 * メソッドチェーン（chaining）について説明して下さい。
 * デファード（deferreds）について説明してください。
@@ -189,7 +189,7 @@ $(".foo div#bar:eq(0)")
 * 'delegate()'と'live()'の違いは何ですか？
 
 
-### 問題（CSS）
+### 問題（CSS編）
 
 * リセットCSSファイルがどのように機能するか、なぜ便利なのかについて説明して下さい。
 * フロート（float）について説明してください。また、それがどのように機能するかを説明してください。
