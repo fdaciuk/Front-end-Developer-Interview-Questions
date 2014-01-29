@@ -70,7 +70,6 @@
 * 1つのページで複数言語をサポートする場合、あなたならどのように実装しますか？
   * 複数言語をサポートするサイトのデザインや実装をする上で、どのようなことに注意を払いますか？
 * `data-`属性は、どのようなことに利用すると良いですか？
-* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
 * HTML5をオープンWebプラットフォームと考えた場合に、HTML5の構成要素はどのようなものがありますか？
 * cookie, sessionStorage, localStorageの違いを説明してください。
 
