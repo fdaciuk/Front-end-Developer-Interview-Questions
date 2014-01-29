@@ -145,7 +145,7 @@ function Person(){} var person = Person() var person = new Person()
 ( window.foo || ( window.foo = "bar" ) );
 ```
 問題：window.fooの値は何ですか？　　
-**答え："bar"**　　
+**答え："bar"**
 （window.fooの判定がfalseの場合のみbarが値に設定され、それ以外の場合にはwindow.fooは変化しません）
 
 ```javascript
