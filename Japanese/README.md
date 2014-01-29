@@ -26,6 +26,9 @@
 * [@darcy_clarke](http://twitter.com/darcy) - http://darcyclarke.me
 * [@iansym](http://twitter.com)
 
+また、翻訳は以下の人が行いました。
+* [@yoheiMune](http://twitter.com/yoheiMune) - http://yoheim.net
+
 
 ### 問題（全般）
 
@@ -46,10 +49,9 @@
 * 複数のドメインからアセットを提供することは、なぜ良いのでしょうか？
   * ブラウザが1つのドメインから一度にダウンロードするリソース数は、いくつでしょうか？
 * ページ読み込みを減らす方法を3つ挙げてください(体感時間、または実際のロード時間について)
-* If you jumped on a project and they used tabs and you used spaces, what would you do?
 * あるプロジェクトにアサインされた時に、彼らはタブとスペースの両方を使っていました。あなたならどうしますか？
   * Suggest the project utilize something like EditorConfig (http://editorconfig.org)
-  * EditorConfig (http://editorconfig.org）などの何らかのプロジェクト共通設定を提案するか？
+  * EditorConfig（ http://editorconfig.org ）などの何らかのプロジェクト共通設定を提案するか？
   * 現状に従うか？
   * `issue :retab! command`
 * シンプルなスライドショーを行うページを実装してください。
@@ -195,9 +197,7 @@ $(".foo div#bar:eq(0)")
 ### 問題（CSS）
 
 * リセットCSSファイルがどのように機能するか、なぜ便利なのかについて説明して下さい。
-* Describe Floats and how they work.
 * フロート（float）について説明してください。また、それがどのように機能するかを説明してください。
-* What are the various clearing techniques and which is appropriate for what context?
 * フロートをクリアするにはどのようは方法がありますか。また、どのように使い分けますか？
 * CSSスプライトについて説明してください。また、サイトを構築する時に、CSSスプライトをどのように実装しますか？
 * お気に入りの画像置換（Image Replacement）テクニックをいくつか教えてください。それらはいつ使いますか？
