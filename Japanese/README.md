@@ -133,26 +133,26 @@ function Person(){} var person = Person() var person = new Person()
 ```javascript
 ~~3.14
 ```
-問題：上記のコードを実行して得られる値は何ですか？
+問題：上記のコードを実行して得られる値は何ですか？　　
 **答え：3**
 
 ```javascript
 "i'm a lasagna hog".split("").reverse().join("");
 ```
-問題：上記のコードを実行して得られる値は何ですか？
+問題：上記のコードを実行して得られる値は何ですか？　　
 **答え："goh angasal a m'i"**
 
 ```javascript
 ( window.foo || ( window.foo = "bar" ) );
 ```
-問題：window.fooの値は何ですか？
-**答え："bar"**
+問題：window.fooの値は何ですか？　　
+**答え："bar"**　　
 （window.fooの判定がfalseの場合のみbarが値に設定され、それ以外の場合にはwindow.fooは変化しません）
 
 ```javascript
 var foo = "Hello"; (function() { var bar = " World"; alert(foo + bar); })(); alert(foo + bar);
 ```
-問題：2つのalertからの結果はどのようになりますか？
+問題：2つのalertからの結果はどのようになりますか？　　
 **答え："Hello World"と表示され、続いてReferenceError: bar is not definedと表示される。**
 
 ```javascript
@@ -160,14 +160,14 @@ var foo = [];
 foo.push(1);
 foo.push(2);
 ```
-問題：foo.lengthの値は何ですか？
+問題：foo.lengthの値は何ですか？　　
 **答え：`2`**
 
 ```javascript
 var foo = {};
 foo.bar = 'hello';
 ```
-問題：foo.lengthの値は何ですか？
+問題：foo.lengthの値は何ですか？　　
 **答え：`undefined`**
 
 ### 問題（jQuery）
