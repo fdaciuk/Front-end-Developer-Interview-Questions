@@ -127,7 +127,7 @@ function Person(){} var person = Person() var person = new Person()
 * 関数の可変引数とは何ですか？
 * `"use strict";`とは何ですか？これを使うことでのメリット・デメリットは何ですか？
 
-### JS-Code Examples:
+
 ### 問題（JSコード）
 
 ```javascript
@@ -176,8 +176,8 @@ foo.bar = 'hello';
 * デファード（deferreds）について説明してください。
 * あなたが実装できるjQuery特有の最適化をいくつか教えてください。
 * `.end()`はどのように機能しますか？
-* ☆どのようにイベントハンドラーに設定する名前を決めますか？なぜその名前を使うのですか？
-* ☆あなたが利用できるjQueryの機能を4つ上げてください。
+* どのようにイベントハンドラーに設定する名前を決めますか？なぜその名前を使うのですか？
+* あなたが利用できるjQueryの機能を4つ上げてください。
   * Selector (string), HTML (string), Callback (function), HTMLElement, object, array, element array, jQuery Object, など.
 * キュー（queue）とは何ですか？
 * 次の違いを説明してください。`.get()`, `[]`, and `.eq()`?
@@ -197,18 +197,15 @@ $(".foo div#bar:eq(0)")
 * フロートをクリアするにはどのようは方法がありますか。また、どのように使い分けますか？
 * CSSスプライトについて説明してください。また、サイトを構築する時に、CSSスプライトをどのように実装しますか？
 * お気に入りの画像置換（Image Replacement）テクニックをいくつか教えてください。それらはいつ使いますか？
-* CSS property hacks, conditionally included .css files, or... something else?
 * CSSファイルに記載するCSSハックがありますが、他にはどのようなハックがありますか？
 * 機能制限されたブラウザーに対して、どのようにページを提供しますか？
   * どのようなテクニックや手順を使いますか？
 * コンテンツを隠す方法はどのようなものがありますか？また、screenの場合のみそれを適用するにはどうしますか？
-* Have you ever used a grid system, and if so, what do you prefer?
 * グリッドシステムを使ったことがありますか？もしある場合、どの実装技術をあなたは好みますか？
 * メディアクエリやモバイル専用のレイアウト（やCSS）を使ったことはありますか？
 * SVGやそれに関連する技術を使ったことはありますか？
 * 印刷用にWebページを最適化するにはどうしますか？
-* What are some of the "gotchas" for writing efficient CSS?
-* ☆効率の良いCSSを書くために、「わかった！」という体験がありましたら教えてください。
+* 効率の良いCSSを書くために、「わかった！」という体験がありましたら教えてください。
 * CSSプリプロセッサを使うメリット・デメリットは何ですか？（SASS, Compass, Stylus, LESS）
   * 今までに使ってきたCSSプリプロセッサの好きな点、嫌いな点を教えてください。
 * 標準実装されていないフォントを使う場合に、どのようにWebデザインカンプを実装しますか？
