@@ -1,4 +1,3 @@
-#Front-end Job Interview Questions
 #フロントエンドの就職試験の問題集
 
 @version 2.0.0
